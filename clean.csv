@@ -1,0 +1,196 @@
+,Species,group,presence,rank,score
+0,nudibranch,gastropod,1,1,5
+1,horseshoe crab,crustacean,1,2,4
+2,cuttlefish,Cephalopod,1,3,3
+3,whales,mammal,1,4,2
+4,angular fish,fish,1,5,1
+5,amphipods,crustacean,1,1,5
+6,bull kelp,macroalgae,1,2,4
+7,giant kelp,macroalgae,1,3,3
+8,crinoid,echinoderm,1,4,2
+9,angasi oysters,bivalve,1,5,1
+10,octopus,Cephalopod,1,1,5
+11,epaulette shark,elasmobranch,1,2,4
+12,stingrays,elasmobranch,1,3,3
+13,whales,mammal,1,4,2
+14,seals,mammal,1,5,1
+15,sharks,elasmobranch,1,1,5
+16,whales,mammal,1,2,4
+17,dolphins,mammal,1,3,3
+18,clown fish,fish,1,4,2
+19,seahorses,fish,1,5,1
+20,whale,mammal,1,1,5
+21,dolphin,mammal,1,2,4
+22,squid,Cephalopod,1,3,3
+23,oyster,bivalve,1,4,2
+24,scallop,bivalve,1,5,1
+25,axolotl,amphibian,1,1,5
+26,mola mola,fish,1,2,4
+27,mantis shrimp,crustacean,1,3,3
+28,giant squid,Cephalopod,1,4,2
+29,cyanobacteria,Cyanobacteria,1,5,1
+30,seahorses and sea dragons,fish,1,1,5
+31,dolphins,mammal,1,2,4
+32,seals,mammal,1,3,3
+33,animal migration?,other,1,4,2
+34,anemones and their cnidaria,cnidaria,1,5,1
+35,humpback whales,mammal,1,1,5
+36,mantis shrimp,crustacean,1,2,4
+37,leatherback turtles,reptile,1,3,3
+38,sunfish,fish,1,4,2
+39,grey nurse sharks,elasmobranch,1,5,1
+40,manta ray,elasmobranch,1,1,5
+41,sharks,elasmobranch,1,2,4
+42,phytoplankton,phytoplankton,1,3,3
+43,chinstrap penguin,bird,1,4,2
+44,dolphins,mammal,1,5,1
+45,sea turtles,reptile,1,1,5
+46,octopus,Cephalopod,1,2,4
+47,fairy penguin,bird,1,3,3
+48,sharks,elasmobranch,1,4,2
+49,blue bottle jellyfish,cnidaria,1,5,1
+50,galapagos marine iguana,reptile,1,1,5
+51,irukandji jellyfish,cnidaria,1,2,4
+52,stonefish,fish,1,3,3
+53,whale shark,elasmobranch,1,4,2
+54,sea turtles,reptile,1,5,1
+55,sharks,elasmobranch,1,1,5
+56,dolphins,mammal,1,2,4
+57,turtles,reptile,1,3,3
+58,seahorses,fish,1,4,2
+59,weedy seadragons,fish,1,5,1
+60,manta ray,elasmobranch,1,1,5
+61,turtle,reptile,1,2,4
+62,dugong,mammal,1,3,3
+63,dolphin,mammal,1,4,2
+64,coral,cnidaria,1,5,1
+65,sea horses,fish,1,1,5
+66,ostracod,crustacean,1,2,4
+67,nudibranch,gastropod,1,3,3
+68,sea snails,gastropod,1,4,2
+69,transparent sea cucumber,echinoderm,1,5,1
+70,sunfish,fish,1,1,5
+71,grey nurse shark,elasmobranch,1,2,4
+72,green sea turtle,reptile,1,3,3
+73,giant cuttlefish,Cephalopod,1,4,2
+74,white shark,elasmobranch,1,5,1
+75,octopus,Cephalopod,1,1,5
+76,whales,mammal,1,2,4
+77,jellyfish,cnidaria,1,3,3
+78,turtles,reptile,1,4,2
+79,seals,mammal,1,5,1
+80,octopus,Cephalopod,1,1,5
+81,seahorses,fish,1,2,4
+82,anglerfish,fish,1,3,3
+83,cookie cutter shark,elasmobranch,1,4,2
+84,orca,mammal,1,5,1
+85,lion fish,fish,1,1,5
+86,dugong,mammal,1,2,4
+87,giant clams,bivalve,1,3,3
+88,sea turtles,reptile,1,4,2
+89,cuttlefish,Cephalopod,1,5,1
+90,octopus,Cephalopod,1,1,5
+91,pilot whales,mammal,1,2,4
+92,angler fish,fish,1,3,3
+93,blue whale,mammal,1,4,2
+94,phytoplankton,phytoplankton,1,5,1
+95,emperor penguins,bird,1,1,5
+96,other penguin species,bird,1,2,4
+97,whales,mammal,1,3,3
+98,turtles,reptile,1,4,2
+99,penguins,bird,1,5,1
+100,sea otters,mammal,1,1,5
+101,whales,mammal,1,2,4
+102,seals,mammal,1,3,3
+103,clown fish,fish,1,4,2
+104,mantis shrimps,crustacean,1,5,1
+105,cuttlefish,Cephalopod,1,1,5
+106,sea otters,mammal,1,2,4
+107,cetaceans,mammal,1,3,3
+108,deep sea cephalopods,Cephalopod,1,4,2
+109,great white sharks,elasmobranch,1,5,1
+110,giant trevally,fish,1,1,5
+111,octopus,Cephalopod,1,2,4
+112,colossal squid,Cephalopod,1,3,3
+113,orca,mammal,1,4,2
+114,nudibranchs,gastropod,1,5,1
+115,weedy sea dragon,fish,1,1,5
+116,australian/new zealand fur seals,mammal,1,2,4
+117,southern and eastern rock lobsters,crustacean,1,3,3
+118,fish,fish,1,4,2
+119,killer whale,mammal,1,5,1
+120,seahorse,fish,1,1,5
+121,starfish,echinoderm,1,2,4
+122,great white sharks,elasmobranch,1,3,3
+123,leopard seals,mammal,1,4,2
+124,sunfish,fish,1,5,1
+125,sea turtles,reptile,1,1,5
+126,freshwater eels,fish,1,2,4
+127,octopus,Cephalopod,1,3,3
+128,sharks,elasmobranch,1,4,2
+129,octopus,Cephalopod,1,5,1
+130,crabs,crustacean,1,1,5
+131,lobsters,crustacean,1,2,4
+132,seals,mammal,1,3,3
+133,sea shells,gastropod,1,4,2
+134,sharks,elasmobranch,1,5,1
+135,octopus,Cephalopod,1,1,5
+136,nudibranchs,gastropod,1,2,4
+137,cetaceans,mammal,1,3,3
+138,seahorse,fish,1,4,2
+139,sea turtles,reptile,1,5,1
+140,the larger whales,mammal,1,1,5
+141,manta rays,elasmobranch,1,2,4
+142,sharks,elasmobranch,1,3,3
+143,sea turtles,reptile,1,4,2
+144,sea horses,fish,1,5,1
+145,orca,mammal,1,1,5
+146,whale sharks,mammal,1,2,4
+147,jellyfish,cnidaria,1,3,3
+148,turtles,reptile,1,4,2
+149,pufferfish,fish,1,5,1
+150,octopus,Cephalopod,1,1,5
+151,manta ray,elasmobranch,1,2,4
+152,giant squid,Cephalopod,1,3,3
+153,sharks,elasmobranch,1,4,2
+154,anything from serious depths!,other,1,5,1
+155,leafy sea dragon,fish,1,1,5
+156,whales,mammal,1,2,4
+157,seals,mammal,1,3,3
+158,dugongs,mammal,1,4,2
+159,octopus,Cephalopod,1,5,1
+160,dolphins,mammal,1,1,5
+161,whales,mammal,1,2,4
+162,turtles,reptile,1,3,3
+163,stingrays,elasmobranch,1,4,2
+164,great white sharks,elasmobranch,1,5,1
+165,antarctic blue whale,mammal,1,1,5
+166,leatherback sea turtle,reptile,1,2,4
+167,manatees,mammal,1,3,3
+168,seals,mammal,1,4,2
+169,octopuses,Cephalopod,1,5,1
+170,phytoplankton,phytoplankton,1,1,5
+171,coral,cnidaria,1,2,4
+172,sharks,elasmobranch,1,3,3
+173,salmon,fish,1,4,2
+174,penguins,bird,1,5,1
+175,diatoms,phytoplankton,1,1,5
+176,blue dragon (glaucus atlanticus),gastropod,1,2,4
+177,giant kelp,macroalgae,1,3,3
+178,common sea dragon,fish,1,4,2
+179,siphonophores,cnidaria,1,5,1
+180,great hammerhead shark,elasmobranch,1,1,5
+181,orca,mammal,1,2,4
+182,leafy sea dragon,fish,1,3,3
+183,bottlenose dolphin,mammal,1,4,2
+184,stingray,elasmobranch,1,5,1
+185,humpback whale,mammal,1,1,5
+186,green sea turtle,reptile,1,2,4
+187,whale sharks,elasmobranch,1,3,3
+188,dolphin,mammal,1,4,2
+189,manta ray,elasmobranch,1,5,1
+190,coral,cnidaria,1,1,5
+191,whales,mammal,1,2,4
+192,sharks,elasmobranch,1,3,3
+193,sealions,mammal,1,4,2
+194,seahorses/sea dragons,fish,1,5,1
